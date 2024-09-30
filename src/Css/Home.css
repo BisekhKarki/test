@@ -1,0 +1,40 @@
+.dropdown, .notification{
+    background: none;
+    border: none;
+}
+
+.topSection{
+    width: 195px;
+    height: 44px;
+}
+
+.addMember{
+    width: 132px;
+    height: 32px;
+    border-radius: 4px;
+    padding: 8px 12px 8px 12px;
+    display: flex;
+    flex-direction: row;
+    gap: 4px;
+    text-align: center;
+    border: none;
+    background-color:  rgba(93, 153, 54, 1);
+    
+}
+
+.editButton{
+    background: none;
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+
+.editButton button{
+    cursor: pointer;
+    background: none;
+    border: none;
+}
+
+table{
+    font-size: 20px;
+}
